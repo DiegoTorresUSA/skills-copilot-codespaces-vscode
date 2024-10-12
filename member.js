@@ -1,4 +1,4 @@
-function skillsmember(){
+function skillsMember(){
     return {
         restric: 'E',
         templateUrl: 'modules/skills/views/member.html',
